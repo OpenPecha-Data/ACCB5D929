@@ -1,0 +1,30 @@
+segment_sources:
+  PF580D20D:
+    type: origin_type
+    relation: translation
+    language: sa
+  P82F3B8FF:
+    type: origin_type
+    relation: translation
+    language: zh
+  P9199514B:
+    type: origin_type
+    relation: translation
+    language: zh
+  P81AEF959:
+    type: origin_type
+    relation: translation
+    language: bo
+  P87D4B163:
+    type: origin_type
+    relation: translation
+    language: en
+  PF4146924:
+    type: origin_type
+    relation: translation
+    language: zh
+  P6557BD6F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs: {}
